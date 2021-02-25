@@ -1,2 +1,2 @@
 # sigurnost
-Projekat iz sigurnosti
+Projekat iz sigurnosti, vebsajt deo za Heroku.
